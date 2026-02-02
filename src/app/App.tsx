@@ -40,7 +40,7 @@ export default function App() {
             Je savais que tu dirais oui ! 💕
           </p>
           <p className="text-lg md:text-xl text-gray-600">
-            Joyeuse Saint-Valentin, Bee ! 🐝❤️
+            Joyeuse Saint-Valentin, Bee ! 🍯❤️
           </p>
         </div>
       </div>
@@ -57,7 +57,7 @@ export default function App() {
         </div>
         
         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-red-600">
-          Hey Bee ! 🐝
+          Hey Bee ! 🍯
         </h1>
         
         <p className="text-xl sm:text-2xl md:text-3xl text-gray-800 px-2">
